@@ -1,5 +1,5 @@
 <?php
-
+## changes after the reboot
 #distrory session
 session_start();
 session_destroy();
