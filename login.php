@@ -17,7 +17,7 @@ username:<input type="text" name='uname' value=<?php if(isset($_POST["uname"])) 
 <?php if(isset($_POST["uname"])) echo ("Wrong username or Passwords"); ?>
 
 </html>
-
+### changes done by sampath
 
 <?php
 
